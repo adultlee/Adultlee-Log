@@ -1,0 +1,23 @@
+{
+	"name": "adultlee-log",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/adultlee/Adultlee-Log.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/adultlee/Adultlee-Log/issues"
+	},
+	"homepage": "https://github.com/adultlee/Adultlee-Log#readme",
+	"dependencies": {
+		"next": "^13.2.4",
+		"typescript": "^5.0.3"
+	}
+}
