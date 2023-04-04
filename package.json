@@ -17,7 +17,9 @@
 	},
 	"homepage": "https://github.com/adultlee/Adultlee-Log#readme",
 	"dependencies": {
+		"bootstrap": "^5.2.3",
 		"next": "^13.2.4",
+		"react-bootstrap": "^2.7.2",
 		"typescript": "^5.0.3"
 	},
 	"devDependencies": {
